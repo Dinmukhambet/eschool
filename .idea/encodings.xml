@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/css/bootstrap-responsive.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/css/bootstrap-responsive.min.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/css/bootstrap.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/css/bootstrap.min.css" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/js/bootstrap.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/js/bootstrap.min.js" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/js/jquery-3.1.1.min.js" charset="windows-1251" />
+  </component>
+</project>
